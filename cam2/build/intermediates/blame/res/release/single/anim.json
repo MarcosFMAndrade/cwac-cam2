@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/cwac_cam2_fade_in.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/cwac_cam2_fade_in.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_0_to_270.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_0_to_270.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_0_to_180.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_0_to_180.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_270_to_90.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_270_to_90.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_180_to_270.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_180_to_270.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_90_to_180.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_90_to_180.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_180_to_0.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_180_to_0.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_scale_down.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_90_to_0.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_90_to_0.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_180_to_90.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_180_to_90.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_scale_up.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_slide_in_from_left.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_0_to_90.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_0_to_90.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_90_to_270.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_90_to_270.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_270_to_0.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_270_to_0.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/cwac_cam2_fade_out.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/cwac_cam2_fade_out.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_slide_out_to_right.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_slide_out_to_left.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/rotate_270_to_180.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/anim/rotate_270_to_180.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/anim/fab_slide_in_from_right.xml",
+        "source": "/home/marcos/.android/build-cache/9df4c8e221fcb20aed219720bdb3c2a53c74a137/output/res/anim/fab_slide_in_from_right.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/cwac_cam2_action_bar_bg_translucent.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/cwac_cam2_action_bar_bg_translucent.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/seekbar_scrubber_control_selector_holo_dark.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/seekbar_scrubber_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/botao_camera.png",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/botao_camera.png"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/cwac_cam2_action_bar_bg_transparent.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/cwac_cam2_action_bar_bg_transparent.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/flash.png",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/flash.png"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/seekbar_scrubber_progress_horizontal_holo_dark.xml",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/seekbar_scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/grelha.png",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/grelha.png"
+    },
+    {
+        "merged": "/home/marcos/StudioProjects/cwac-cam2/cam2/build/intermediates/res/merged/release/drawable/rotate_camera.png",
+        "source": "/home/marcos/StudioProjects/cwac-cam2/cam2/src/main/res/drawable/rotate_camera.png"
+    }
+]
